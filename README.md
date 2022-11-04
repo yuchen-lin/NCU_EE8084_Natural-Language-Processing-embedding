@@ -1,1 +1,1 @@
-# NCU_EE8084_embedding
+# NCU_EE8084_Natural Language Processing embedding
